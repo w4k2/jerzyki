@@ -5,8 +5,14 @@
 Simulation description and parameters.
 
 ## Examples
+![](animations/bezwladnoscmax.gif)
+![](animations/cells.gif)
 ![](animations/colors.gif)
+![](animations/dwoch.gif)
+![](animations/friends.gif)
+![](animations/mde.gif)
 ![](animations/trojka.gif)
+![](animations/scolors.gif)
 ![](animations/output.gif)
 
 
